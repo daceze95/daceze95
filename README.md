@@ -1,5 +1,5 @@
 # ARINZE DARLINGTON EZEOKWUEGBU
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack Engineer;Creative problem solver;)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack Engineer;Creative problem solver;)](https://git.io/typing-svg) -->
 ### Hi there 👋
 ---
 ### Languages and Tools
