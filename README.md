@@ -3,7 +3,7 @@
 ### Hi there 👋
 ---
 ### Languages and Tools
-     
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,github,jenkins,aws,spring,docker,tailwind,react,nextjs,materialui,postgresql,typescript,mongodb)](https://skillicons.dev)     
 <!--
 **daceze95/daceze95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
