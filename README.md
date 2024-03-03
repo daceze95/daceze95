@@ -1,6 +1,9 @@
 # ARINZE DARLINGTON EZEOKWUEGBU
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack Engineer;Creative problem solver;)](https://git.io/typing-svg) -->
 ### Hi there 👋
+
+I'm a software engineer passionate about building innovative solutions. Full-stack developer proficient in JavaScript, TypeScript, Node.js, React.js, and Java. Strong problem-solving skills and a knack for effective communication. I am committed to continuous learning and mentorship. Let's collaborate and create impactful software!
+
 ---
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,java,spring,git,github,jenkins,aws,docker,kubernetes,tailwind,figma,react,nextjs,materialui,postgresql,typescript,mongodb)](https://skillicons.dev)     
