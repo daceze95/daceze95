@@ -6,7 +6,7 @@ I'm a software engineer passionate about building innovative solutions. Full-sta
 
 ---
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,python,java,spring,git,github,jenkins,aws,docker,kubernetes,tailwind,figma,react,nextjs,materialui,postgresql,typescript,mongodb)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,python,java,spring,git,github,jenkins,aws,docker,grafana,bash,kubernetes,tailwind,figma,react,nextjs,materialui,postgresql,typescript,mongodb)](https://skillicons.dev)     
 <!--
 **daceze95/daceze95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
